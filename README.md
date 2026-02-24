@@ -32,13 +32,13 @@ Created `goals.txt`, committed, and pushed changes to GitHub.
 Merged remote changes with the local repository.
 
 ## Linux Commands Used
-- mkdir – create directories  
-- cd – navigate directories  
-- touch – create files  
-- cp – copy files  
-- rm – delete files  
-- vim – text editor  
-- ls – list files  
+- `mkdir` – create directories  
+- `cd` – navigate directories  
+- `touch` – create files  
+- `cp` – copy files  
+- `rm` – delete files  
+- `vim` – text editor  
+- `ls` – list files  
 
 ## Description
 This project demonstrates the basic Git and GitHub workflow including initialization, staging, committing, pushing, cloning, merging changes, and basic Linux command line operations.
