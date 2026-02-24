@@ -44,6 +44,4 @@ vim - text editor
 ls - list files
 Outputs:
 Commands executed successfully as shown in terminal screenshots.
-=======
-# my-project
->>>>>>> 3ef14994382cfbdfb5829cede4c58cb5f26e2e69
+
