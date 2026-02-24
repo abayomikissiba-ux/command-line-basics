@@ -32,7 +32,7 @@ git pull origin main
 Merged remote changes with local repository.
 
 ## Description
-This project demonstrates the basic Git and GitHub workflow including initialization, staging, committing, pushing, cloning, and merging changes.<<<<<<< HEAD
+This project demonstrates the basic Git and GitHub workflow including initialization, staging, committing, pushing, cloning, and merging changes.
 # Command Line Basics  Assignment
 Commands Used:
 mkdir -  create directories
